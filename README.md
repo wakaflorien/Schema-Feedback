@@ -357,7 +357,3 @@ This is a professionally designed schema that shows deep understanding of both d
 - [ESG Reporting Standards](https://www.globalreporting.org/)
 
 ---
-
-**Last Updated:** 2024  
-**Schema Version:** 1.0  
-**Assessment Date:** Current
